@@ -1,0 +1,16 @@
+site_name: PicsSmart Documentation
+
+nav:
+  - Home: index.md
+  - Core Application: core.md
+  - Client: client.md
+  - Federated Server: fed-server.md
+
+repo_url: https://github.com/picssmart/picssmart-docs
+site_author: Banula Kumarage | Hiruna Harankahadeniya | Akila Induranga
+
+theme: 
+  name: readthedocs
+  hljs_languages:
+    - python
+    - bash

@@ -6,7 +6,6 @@ nav:
   - Client: client.md
   - Federated Server: fed-server.md
 
-repo_url: https://github.com/picssmart/picssmart-docs
 site_author: Banula Kumarage | Hiruna Harankahadeniya | Akila Induranga
 
 theme: 

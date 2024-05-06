@@ -4,24 +4,30 @@ This component contains the frontend service of the **PicsSmart** application. T
 
 ## Deploying
 
-### Clone the repository
+### Run in development mode
+
+#### Clone the repository
 
 ```bash
 git clone https://github.com/PicsSmart/picssmart-client.git
 ```
 
-### Prerequisites
+#### Prerequisites
 
 - Node
 
-### Install the dependencies
+#### Install the dependencies
 
 ```bash
 npm install
 ```
 
-### How to run the application
+#### Run the application
 
 ```bash
 npm run dev
 ```
+
+### Install the application
+
+- In here there are two options. You can either build from scratch or install the `.deb` from the latest release in the [picssmart-core](https://github.com/PicsSmart/picssmart-core.git) repository.

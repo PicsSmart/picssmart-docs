@@ -33,6 +33,8 @@ git clone https://github.com/PicsSmart/picssmart-core.git
     - MongoDB
     - Mongo Express (Optional)
     - Qdrant Vector Database
+    - Kafka Broker
+    - Zookeeper
 
 ### How to run the server
 

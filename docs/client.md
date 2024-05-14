@@ -30,4 +30,4 @@ npm run dev
 
 ### Install the application
 
-- In here there are two options. You can either build from scratch or install the `.deb` from the latest release in the [picssmart-core](https://github.com/PicsSmart/picssmart-core.git) repository.
+- In here there are two options. You can either build from scratch or install `picssmart-client` application from the latest release in the [picssmart-core](https://github.com/PicsSmart/picssmart-core.git) repository accoridng to your client operating system.

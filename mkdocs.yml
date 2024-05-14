@@ -5,6 +5,7 @@ nav:
   - Core Application: core.md
   - Client: client.md
   - Federated Server: fed-server.md
+  - Releases: releases.md
 
 site_author: Banula Kumarage | Hiruna Harankahadeniya | Akila Induranga
 

@@ -2,6 +2,8 @@
 
 This component contains the core backend service of the **PicsSmart** application. This can be run as a standalone service in the client machine.
 
+- API Documentation can be found [here](https://documenter.getpostman.com/view/16402831/2sA3Qwb9qg)
+
 ## Application Architecture
 
 The Application Architecture is illustrated in the below diagram.
